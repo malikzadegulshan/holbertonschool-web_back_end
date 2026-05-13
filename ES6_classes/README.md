@@ -1,0 +1,1 @@
+This folder is to present ES6 classes knowledge.
