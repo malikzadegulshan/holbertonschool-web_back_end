@@ -1,0 +1,1 @@
+This folder is for displaying ES6 data manipulation knowledge.
