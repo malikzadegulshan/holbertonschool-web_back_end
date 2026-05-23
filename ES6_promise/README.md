@@ -1,0 +1,1 @@
+This section illustrates ES6 Promise knowledge.
