@@ -1,0 +1,1 @@
+This folder is about ES6 arrow functions.
